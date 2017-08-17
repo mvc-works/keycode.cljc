@@ -30,6 +30,8 @@ keycode.core/c
 ; ... and more
 ```
 
+This project s based on https://github.com/kabirbaidhya/keycode-js/blob/master/src/KeyCode.js
+
 ### License
 
 MIT
