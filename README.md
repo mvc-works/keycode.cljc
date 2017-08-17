@@ -7,7 +7,7 @@ Keycode library
 [![Clojars Project](https://img.shields.io/clojars/v/mvc-works/keycode.svg)](https://clojars.org/mvc-works/keycode)
 
 ```edn
-[mvc-works/keycode "0.1.1"]
+[mvc-works/keycode "0.1.2"]
 ```
 
 ```clojure
